@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: About
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+description: Welcome to the SANBI-GBIF Node: The South African Node of the Global Biodiversity Information Facility
 background: /assets/images/moss.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)

@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-title: About
+title: Welcome to the SANBI-GBIF Node Webportal
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/moss.jpg
 imageLicense: |
@@ -8,7 +8,7 @@ imageLicense: |
 height: 70vh
 ---
 
-## Procris quippe mentior urbes ubi
+## Made my first change
 
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
 flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
